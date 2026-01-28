@@ -5,10 +5,10 @@
 <br />
 <div align="center">
 
-  <h1 align="center">Donate Dapp</h1>
+  <h1 align="center">DonateX</h1>
 
   <p align="center">
-    Donate Dapp is a user-friendly platform that allows individuals to make charitable contributions securely and transparently using blockchain technology. It empowers users to donate to various causes and track their contributions with ease.
+    DonateX is a user-friendly platform that allows individuals to make charitable contributions securely and transparently using blockchain technology. It empowers users to donate to various causes and track their contributions with ease.
     <br />
     
   </p>
